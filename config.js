@@ -1,7 +1,7 @@
 const config = {
-    Secret: "b836e93a0624e3215e6e637ff73cde72d5dc81507db515d027f94a617210", // Your secret key
-    Key: "67c94cf6a07f2ab570e42189",  // Your API key
-    folder: "dfsafsf",
+    Secret: "Your secret key", // Your secret key
+    Key: "Your API key",  // Your API key
+    folder: "Your folder name",//Your folder cloud name 
   };
 const  params = {
     allowedFormats: ["png", "jpg", "jpeg"], 
